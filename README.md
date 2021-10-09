@@ -4,6 +4,6 @@ Celem projektu jest napisanie sieci neuronowej GAN, jaka mogłaby sama tworzyć 
 
 Do wytrenowania sieci neuronowej była wykorzystana baza danych plików midi (https://www.mfiles.co.uk/midi-traditional.htm)
 
-Opis projektu jest zamieszczony w pliku raport.pdf.
+Opis projektu jest zamieszczony w pliku _raport.pdf_.
 
 Wyniki działania sieci można zaobserwować w pliku _generated music_.
